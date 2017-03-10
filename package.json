@@ -1,6 +1,6 @@
 {
   "name": "android-pretty-manifest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "engines": {
     "node": ">= 4"
@@ -15,6 +15,9 @@
   },
   "author": "YuTin",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "bugs": {
     "url": "https://github.com/yutin1987/android-pretty-manifest/issues"
   },
