@@ -1,0 +1,30 @@
+{
+  "name": "android-pretty-manifest",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": ">= 4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutin1987/android-pretty-manifest.git"
+  },
+  "author": "YuTin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yutin1987/android-pretty-manifest/issues"
+  },
+  "homepage": "https://github.com/yutin1987/android-pretty-manifest#readme",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "eslint": "^3.17.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "jest": "^19.0.2"
+  }
+}
